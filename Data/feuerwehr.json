@@ -15,20 +15,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1732-ju-tin/"
         },
         {
-            "name": "Marlon Brand",
-            "rank": "Brandrat",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ac/6023-acadb5fbe6dae98d9f60eec39413239d2718933f.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-feuerwehrmann-marlon/"
-        },
-        {
-            "name": "Louis van Duren",
-            "rank": "Brandrat",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9f/6006-9f6f45909c9f5cdb0b9f56f654c5d9a6a71bc835.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1900-blackshadowking/"
-        },
-        {
             "name": "Dr. med. Bernhardt Kruse",
             "rank": "Brandrat",
             "highlight": false,
@@ -36,11 +22,32 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1839-bernhardt-kruse/"
         },
         {
+            "name": "Marlon Brand",
+            "rank": "Brandreferendar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ac/6023-acadb5fbe6dae98d9f60eec39413239d2718933f.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-feuerwehrmann-marlon/"
+        },
+        {
+            "name": "Mani Meyer",
+            "rank": "Brandreferendar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e7/5862-e7f895aede359bbc69afa24f51ec4b901d7beada.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1908-exxtrem-gamer/"
+        },
+        {
             "name": "Heinrich Danger",
             "rank": "Brandoberinspektor",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/b5/6186-b5584a062d9c3db8746c78fa026dac213ccb0ae9.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1835-heinrich-danger/"
+        },
+        {
+            "name": "Lukas Danger",
+            "rank": "Brandoberinspektor",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c7/6176-c7a6f60025ae06771269524a27ab7d9028d371aa.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
         }
     ]
 }
